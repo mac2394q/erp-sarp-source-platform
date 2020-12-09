@@ -1,0 +1,38 @@
+[02-May-2020 10:24:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[02-May-2020 09:25:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[02-May-2020 09:25:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[02-May-2020 13:10:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[02-May-2020 12:32:38 America/Boise] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/erp_sarp/core/lib/price.lib.php on line 180
+[02-May-2020 12:32:38 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portalxn/public_html/erp_sarp/core/lib/price.lib.php:180) in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 234
+[04-May-2020 15:45:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[04-May-2020 14:45:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[05-May-2020 14:09:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[05-May-2020 13:09:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function id() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php:151
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/facturation_verif.php on line 151
+[05-May-2020 17:23:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function numInvoice() on boolean in /home1/portalxn/public_html/erp_sarp/cashdesk/validation_verif.php:79
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/cashdesk/validation_verif.php on line 79

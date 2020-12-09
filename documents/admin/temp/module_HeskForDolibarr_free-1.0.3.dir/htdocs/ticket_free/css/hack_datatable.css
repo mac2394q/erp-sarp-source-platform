@@ -1,0 +1,24 @@
+#ticket {
+  
+    position: absolute;
+    top: 40px;
+    
+    
+}
+
+#ticket {
+  
+    position: absolute;
+    top: 40px;
+    
+    
+}
+
+.dataTables_filter {
+ top:0px;   
+}
+
+.paginate_disabled_previous, .paginate_enabled_previous, .paginate_disabled_next, .paginate_enabled_next {
+margin-right: 40px;
+
+}

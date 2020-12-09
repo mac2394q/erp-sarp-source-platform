@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/">
+   <id>http://www.bbc.com/mundo/ultimas_noticias/index.xml</id>
+   <title>BBCMundo.com | Última Hora</title>
+   <updated>2016-04-01T13:08:08+00:00</updated>
+   <link rel="self" href="http://www.bbc.com/mundo/ultimas_noticias/index.xml"/>
+   <author>
+      <name>BBC Mundo</name>
+      <email>escribanos@bbc.co.uk</email>
+      <uri>http://www.bbcmundo.com</uri>
+   </author>
+   <generator>http://www.bbcmundo.com</generator>
+   <category xml:lang="es" term="mundo" label="mundo"/>
+   <category xml:lang="es" term="ultimas_noticias" label="Última Hora"/>
+   <logo>http://www.bbc.co.uk/mundo/images/gel/rss_logo.gif</logo>
+   <rights>Derechos Reservados de la British Broadcasting Corporation (Corporación Británica de Radiodifusión) </rights>
+   <entry>
+      <id>tag:www.bbcmundo.com,2016-04-01:/mundo/ultimas_noticias/2016/04/160401_economia_cuanto_cuesta_comida_avion_yv</id>
+      <dc:identifier>/mundo/ultimas_noticias/2016/04/160401_economia_cuanto_cuesta_comida_avion_yv</dc:identifier>
+      <updated>2016-04-01T13:03:19+00:00</updated>
+      <published>2016-04-01T11:47:13+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">¿Cuánto les cuesta a las aerolíneas la comida que sirven en los aviones?</title>
+      <summary xml:lang="es">Cuando el negocio de la aviación se vio agobiado por incrementos en costos, muchas aerolíneas optaron por recortar lo dispensable y cobrar por lo indispensable. ¿Cuánto se ahorran realmente? ¿Tiene sentido económicamente?</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2016/04/160401_economia_cuanto_cuesta_comida_avion_yv"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/04/01/160401122603_comida_aviones_1_144x81_thinkstock_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Una comida de avión"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/04/01/160401122603_comida_aviones_1_144x81_thinkstock_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2016-03-09:/mundo/ultimas_noticias/2016/03/160309_condenan_robo_jubilados_reino_unido_amv</id>
+      <dc:identifier>/mundo/ultimas_noticias/2016/03/160309_condenan_robo_jubilados_reino_unido_amv</dc:identifier>
+      <updated>2016-03-09T21:15:56+00:00</updated>
+      <published>2016-03-09T15:25:00+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Condenan a los ladrones de diamantes de Hatton Garden, el robo del siglo en Reino Unido</title>
+      <summary xml:lang="es">En abril de 2015 entraron por el hueco del ascensor, usaron equipo pesado para romper paredes y se tomaron cuatro días para robar unos US$20 millones en joyas. Conozca la historia del robo del año.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2016/03/160309_condenan_robo_jubilados_reino_unido_amv"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/04/22/150422131840_hatton_garden_144x81_other_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Hatton Garden"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/04/22/150422131840_hatton_garden_144x81_other_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda7</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda7</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda7"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda6</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda6</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda6"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda5</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda5</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda5"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda4</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda4</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda4"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda3</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda3</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda3"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,:/asset/mundo/ultimas_noticias/2016/03/160309_yolanda2</id>
+      <dc:identifier>/asset/mundo/ultimas_noticias/2016/03/160309_yolanda2</dc:identifier>
+      <updated/>
+      <published/>
+      <category xml:lang="" term="mundo" label="mundo"/>
+      <category xml:lang="" term="" label=""/>
+      <title xml:lang=""/>
+      <summary xml:lang=""/>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.co.uk/asset/mundo/ultimas_noticias/2016/03/160309_yolanda2"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-12-17:/mundo/ultimas_noticias/2015/12/151217_christine_lagarde_a_tribunales</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/12/151217_christine_lagarde_a_tribunales</dc:identifier>
+      <updated>2015-12-17T15:30:42+00:00</updated>
+      <published>2015-12-17T15:29:15+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">La jefa del FMI, Christine Lagarde, enfrentará juicio por acusaciones de pagos irregulares</title>
+      <summary xml:lang="es">La funcionaria irá a los tribunales por supuesta negligencia en relación al pago de varios cientos de millones de dólares al empresario Bernard Tapie, cuando era ministra de Finanzas de Francia. </summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/12/151217_christine_lagarde_a_tribunales"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/12/17/151217165736_christine_lagarde_afp_144x81_afp_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Chistine Lagarde"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/12/17/151217165736_christine_lagarde_afp_144x81_afp_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-11-07:/mundo/ultimas_noticias/2015/11/151106_eeuu_cine_tarantino_polemica_policia_jg</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/11/151106_eeuu_cine_tarantino_polemica_policia_jg</dc:identifier>
+      <updated>2015-11-07T02:18:29+00:00</updated>
+      <published>2015-11-07T01:49:29+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">La "amenaza" a Quentin Tarantino por su denuncia de la brutalidad policial</title>
+      <summary xml:lang="es">La polémica entre Quentin Tarantino y algunos de los principales sindicatos de policía de Estados Unidos no ha dejado de crecer desde que el director de cine participó en una marcha en contra de la brutalidad policial.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/11/151106_eeuu_cine_tarantino_polemica_policia_jg"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/11/07/151107013321_quentin_tarantino_144x81_afp_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Quentin Tarantino"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/11/07/151107013321_quentin_tarantino_144x81_afp_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-10-23:/mundo/ultimas_noticias/2015/10/151023_guia_animada_huracanes_responsive</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/10/151023_guia_animada_huracanes_responsive</dc:identifier>
+      <updated>2015-10-23T07:55:08+00:00</updated>
+      <published>2015-10-23T07:54:57+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Guía animada: cómo se forman los huracanes</title>
+      <summary xml:lang="es">Los efectos de un huracán pueden llegar a ser devastadores. BBC Mundo le presenta una guía animada explicando cómo se producen.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/10/151023_guia_animada_huracanes_responsive"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://ichef.bbci.co.uk/news/ws/106/amz/worldservice/live/assets/images/2011/08/26/110826095402_promo_huracanes_guia_304x171_getty_nocredit.jpg"
+                             width="106"
+                             height="60">
+               <img alt="Huracán"
+                    width="106"
+                    height="60"
+                    src="http://ichef.bbci.co.uk/news/ws/106/amz/worldservice/live/assets/images/2011/08/26/110826095402_promo_huracanes_guia_304x171_getty_nocredit.jpg"/>
+            </media:thumbnail>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2011/08/26/110826095402_promo_huracanes_guia_144x81_getty_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Huracán"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2011/08/26/110826095402_promo_huracanes_guia_144x81_getty_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-10-02:/mundo/ultimas_noticias/2015/10/151002_guatemala_desaparecidos_deslave_lav</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/10/151002_guatemala_desaparecidos_deslave_lav</dc:identifier>
+      <updated>2015-10-02T15:38:07+00:00</updated>
+      <published>2015-10-02T15:28:42+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Guatemala:un  deslave deja 62 muertos y 450 desaparecidos</title>
+      <summary xml:lang="es">Las fuertes lluvias caídas en los últimos días en una colonia de Santa Catarina Pinula, cerca de la capital, provocaron aludes de tierra que dejaron al menos cuatro muertos y decenas de heridos.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/10/151002_guatemala_desaparecidos_deslave_lav"
+            title="story">
+         <media:content/>
+      </link>
+      <link rel="related"
+            type="text/html"
+            href="http://www.bbc.com/mundo/video_fotos/2015/10/151002_video_deslave_guatemala_bm"
+            title="video">
+         <dc:title>Guatemala: rescatistas y familiares buscan sobrevivientes del deslave</dc:title>
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-09-15:/mundo/ultimas_noticias/2015/09/150914_eeuu_aniversario_secuestro_patricia_hearst_jg</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/09/150914_eeuu_aniversario_secuestro_patricia_hearst_jg</dc:identifier>
+      <updated>2015-09-18T17:58:00+00:00</updated>
+      <published>2015-09-15T03:45:54+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">EE.UU: la increíble historia de Patty Hearst, la rica heredera que se hizo guerrillera</title>
+      <summary xml:lang="es">La nieta del magnate de la prensa William Randolph Hearst, fue víctima hace 40 años de un secuestro sonado que tuvo  un desenlace inesperado. Fue uno de los primeros casos en los que se habló del Síndrome de Estocolmo.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/09/150914_eeuu_aniversario_secuestro_patricia_hearst_jg"
+            title="story">
+         <media:content/>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-08-19:/mundo/ultimas_noticias/2015/08/150819_actualizacion_anuncio_app</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/08/150819_actualizacion_anuncio_app</dc:identifier>
+      <updated>2015-08-19T11:47:23+00:00</updated>
+      <published>2015-08-19T11:44:04+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Disculpe. Esta sección no se actualiza más</title>
+      <summary xml:lang="es">En BBC Mundo dejamos de escribir las noticias de última hora, para darle mayor énfasis a los análisis y a poner la información en contexto.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/08/150819_actualizacion_anuncio_app"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2012/08/02/120802125305_sp_rolling_news_worldwide_144x81_144x81_bbc_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt=""
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2012/08/02/120802125305_sp_rolling_news_worldwide_144x81_144x81_bbc_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-07-16:/mundo/ultimas_noticias/2015/07/150716_eeuu_colorado_holmes_masacre_culpable_jg</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/07/150716_eeuu_colorado_holmes_masacre_culpable_jg</dc:identifier>
+      <updated>2015-07-16T23:36:11+00:00</updated>
+      <published>2015-07-16T22:23:39+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">EE.UU.: declaran culpable al autor de la masacre de Aurora</title>
+      <summary xml:lang="es">James Holmes mató a 12 personas y dejó otras 70 heridas durante el estreno de una película de la saga de Batman.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/07/150716_eeuu_colorado_holmes_masacre_culpable_jg"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/07/16/150716224338_james_holmes_144x81_ap_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt=""
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/07/16/150716224338_james_holmes_144x81_ap_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-07-09:/mundo/ultimas_noticias/2015/07/150709_grecia_recortes_propuesta_az</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/07/150709_grecia_recortes_propuesta_az</dc:identifier>
+      <updated>2015-07-09T22:53:16+00:00</updated>
+      <published>2015-07-09T22:16:37+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Grecia ofrece a sus acreedores una fuerte subida de impuestos y recortes de pensiones</title>
+      <summary xml:lang="es">A cambio de su última propuesta de ajustes, Grecia busca obtener un rescate financiero de más de US$59.000 millones con el que evitar el colapso de su sistema bancario.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/07/150709_grecia_recortes_propuesta_az"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/07/09/150709221822_sp_euro_144x81_epa_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Grecia"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/07/09/150709221822_sp_euro_144x81_epa_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-06-23:/mundo/ultimas_noticias/2015/06/150623_internacional_suecia_politica_exterior_feminista_ch</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/06/150623_internacional_suecia_politica_exterior_feminista_ch</dc:identifier>
+      <updated>2015-06-23T15:22:19+00:00</updated>
+      <published>2015-06-23T12:01:17+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Cómo es la pionera política exterior feminista de Suecia y a quién molesta</title>
+      <summary xml:lang="es">El recientemente estrenado gobierno de Stefan Löfven en Suecia dio un golpe de timón en la diplomacia europea y mundial anunciando una "política de relaciones exteriores feminista". ¿Qué es y por qué la consideran necesaria?</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/06/150623_internacional_suecia_politica_exterior_feminista_ch"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/06/23/150623151703_mujeres_suecia_144x81_afp_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Mujeres en Suecia"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/06/23/150623151703_mujeres_suecia_144x81_afp_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-06-18:/mundo/ultimas_noticias/2015/06/150617_eeuu_mark_zuckerberg_donacion_indocumentados_becas_jg</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/06/150617_eeuu_mark_zuckerberg_donacion_indocumentados_becas_jg</dc:identifier>
+      <updated>2015-06-18T19:51:16+00:00</updated>
+      <published>2015-06-18T19:48:37+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Mark Zuckerberg dona US$5 millones para dar becas a inmigrantes indocumentados</title>
+      <summary xml:lang="es">El fundador de la red social Facebook, Mark Zuckerberg, anunció este jueves que donará US$5 millones para ofrecer becas a jóvenes indocumentados en Estados Unidos para que puedan ir a la universidad.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/06/150617_eeuu_mark_zuckerberg_donacion_indocumentados_becas_jg"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/05/15/150515091536_mark_zuckerberg_144x81_ap_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Mark Zuckerberg"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/05/15/150515091536_mark_zuckerberg_144x81_ap_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-06-10:/mundo/ultimas_noticias/2015/06/150610_ciencia_bacterias_mano_sin_lavar_lv</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/06/150610_ciencia_bacterias_mano_sin_lavar_lv</dc:identifier>
+      <updated>2015-06-10T12:15:43+00:00</updated>
+      <published>2015-06-10T09:30:21+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">Así son realmente las bacterias de una mano sin lavar</title>
+      <summary xml:lang="es">Tasha Sturm, una profesora de microbiología de California, pidió a su hijo que colocara la palma de la mano derecha sobre una placa Petri después de jugar en el jardín. Y es esto lo que emergió una semana después.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/06/150610_ciencia_bacterias_mano_sin_lavar_lv"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/06/10/150610112102_ciencia_bacterias_manos_144x81_microbeworld.com_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt=""
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/06/10/150610112102_ciencia_bacterias_manos_144x81_microbeworld.com_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+   <entry>
+      <id>tag:www.bbcmundo.com,2015-05-14:/mundo/ultimas_noticias/2015/05/150504_eeuu_tv_los_simpson_voz_actor_jg</id>
+      <dc:identifier>/mundo/ultimas_noticias/2015/05/150504_eeuu_tv_los_simpson_voz_actor_jg</dc:identifier>
+      <updated>2015-05-15T01:19:53+00:00</updated>
+      <published>2015-05-14T23:30:46+00:00</published>
+      <category xml:lang="es" term="mundo" label="mundo"/>
+      <category xml:lang="es" term="rolling_news" label="Última Hora"/>
+      <title xml:lang="es">"Los Simpson" se queda sin la voz de algunos de sus personajes más emblemáticos</title>
+      <summary xml:lang="es">La popular serie de animación estadounidense "Los Simpson" se ha quedado sin la voz de algunos de sus personajes más emblemáticos como el Señor Burns, el vecino Ned Flanders o el director Skinner. Le contamos por qué.</summary>
+      <link rel="alternate"
+            type="text/html"
+            href="http://www.bbc.com/mundo/ultimas_noticias/2015/05/150504_eeuu_tv_los_simpson_voz_actor_jg"
+            title="story">
+         <media:content>
+            <media:thumbnail url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/05/14/150514232539_imagen_de_los_simpson_144x81_ap_nocredit.jpg"
+                             width="144"
+                             height="81">
+               <img alt="Imagen de &#34;Los Simpson&#34;"
+                    width="144"
+                    height="81"
+                    src="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/05/14/150514232539_imagen_de_los_simpson_144x81_ap_nocredit.jpg"/>
+            </media:thumbnail>
+         </media:content>
+      </link>
+   </entry>
+</feed>

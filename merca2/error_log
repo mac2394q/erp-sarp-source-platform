@@ -1,0 +1,16 @@
+[25-Apr-2020 21:54:07 America/Boise] PHP Warning:  require_once(/home1/portalxn/public_html/merca2/database/DataSource.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/erp_sarp/merca2/index.php on line 10
+[25-Apr-2020 21:54:07 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/merca2/database/DataSource.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/portalxn/public_html/erp_sarp/merca2/index.php on line 10
+[25-Apr-2020 22:11:16 America/Boise] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\GoogleException: The requested client requires the gRPC extension. Please see https://cloud.google.com/php/grpc for installation instructions. in /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-core/src/ClientTrait.php:75
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-firestore/src/FirestoreClient.php(139): Google\Cloud\Firestore\FirestoreClient->requireGrpc()
+#1 /home1/portalxn/public_html/erp_sarp/merca2/conexion.php(37): Google\Cloud\Firestore\FirestoreClient->__construct(Array)
+#2 /home1/portalxn/public_html/erp_sarp/merca2/conexion.php(65): initialize('sarpcolombia-3c...')
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-core/src/ClientTrait.php on line 75
+[25-Apr-2020 22:11:18 America/Boise] PHP Fatal error:  Uncaught Google\Cloud\Core\Exception\GoogleException: The requested client requires the gRPC extension. Please see https://cloud.google.com/php/grpc for installation instructions. in /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-core/src/ClientTrait.php:75
+Stack trace:
+#0 /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-firestore/src/FirestoreClient.php(139): Google\Cloud\Firestore\FirestoreClient->requireGrpc()
+#1 /home1/portalxn/public_html/erp_sarp/merca2/conexion.php(37): Google\Cloud\Firestore\FirestoreClient->__construct(Array)
+#2 /home1/portalxn/public_html/erp_sarp/merca2/conexion.php(65): initialize('sarpcolombia-3c...')
+#3 {main}
+  thrown in /home1/portalxn/public_html/erp_sarp/merca2/vendor/google/cloud-core/src/ClientTrait.php on line 75
